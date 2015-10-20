@@ -1,0 +1,10 @@
+Package: com.iosxedge.infiniloader
+Name: Infiniloader
+Depends: winterboard
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Nice Theme! Supports iOS 8.0 - 9.0.2
+Homepage: http://www.iosxedge.com
+Maintainer: Liam <@DiodeCode>
+Author: Liam Harris <@DiodeCode>
+Section: Themes (SpringBoard)
